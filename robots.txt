@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eefuweib.gabrielajocson.com/sitemap.xml
